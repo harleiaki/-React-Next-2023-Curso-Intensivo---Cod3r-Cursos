@@ -1,4 +1,4 @@
-import { IconCircleX } from "@tabler/icons-react";
+import { IconCircleX } from "@Tabler/icons-react";
 
 export default function CarrinhoVazio() {
     return (
