@@ -1,7 +1,3 @@
-https://user-images.githubusercontent.com/96266332/235059265-fa701f03-4cc3-47e8-8270-825e10e6879c.mp4
-
-
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
